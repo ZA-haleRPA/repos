@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "2b50005a-8733-4354-bf10-c5fe0c6eadde",
+		"name": "DogAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7821180"
+	},
+	"item": [
+		{
+			"name": "Get All Dog Breeds",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Sub Breed List [Retriever]",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Random Image [Retriever Golden]",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
